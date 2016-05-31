@@ -1,0 +1,204 @@
+
+   
+ @media only screen and (max-width: 400px) {
+     .botones .botonesg li {
+         display: none;
+     }
+     .botones {
+  
+         }
+     .botones .botone {
+
+         
+         margin: 10% ;
+         ;
+         padding: 0px 0px;
+         display: block;
+     }
+     .botones .botone li {
+      margin-left: 0px;
+         border-radius: 0px;
+         border-bottom: 1px solid #a3a0a5;
+        
+         width: 200px;
+         box-shadow: none;
+         color: aliceblue;
+         background-color: transparent;
+     
+
+         
+     
+     
+     }.botones .botone .pdz{
+        display: none;
+     }
+     .logo .logod {
+        
+         padding: 60% 0px;
+         display: block;
+         background-image: url(../imagenes/facebook%20icon1.png);
+         background-position: center;
+         background-size: cover;
+     }
+     section .pr {
+         height: 00px;
+         margin: 0;
+         display: block;
+         background-color: transparent;
+     }
+     section .pr aside {
+         margin-top: -150%;
+         width: 100%;
+     }
+     .logo .dss .ds {
+         display: none;
+     }
+     section .pr article {
+         width: 100%;
+         padding: 0;
+     }
+     header .botones {
+         background-color: transparent;
+     }#psl{
+         background-color: transparent;
+     }.botones .botone li p{
+         
+     }.amburgeza{
+         cursor: pointer;
+margin: -30px;
+    
+           overflow: hidden;
+         width: 70px;
+         height: 70px;
+    
+         
+     }.am{
+         background-color: transparent;
+         background-image: url(../imagenes/Fw96Z.png);
+         background-position: center;
+         background-size: cover;
+         
+         margin: 0;
+         width:100%;
+         height: 100%;
+    
+        
+    
+     }.txt2{
+        
+     }.txt3{
+      
+     }header{  background-color: rgba( 0, 0, 0, 0.611 );
+     }
+} @media only screen and (max-width: 600px) {
+    
+    
+    
+        .botones .botonesg li {
+         display: none;
+     }
+     .botones {
+  
+         }
+     .botones .botone {
+
+         
+         margin: 20% ;
+         ;
+         padding: 0px 0px;
+         display: block;
+     }
+     .botones .botone  {
+      margin-left: -20px;
+         border-radius: 0px;
+  
+        
+         width: 200px;
+         box-shadow: none;
+         color: aliceblue;
+         background-color: transparent;
+     
+
+         
+     
+     
+    }.botones .botone li{
+               border-bottom: 1px solid #a3a0a5;
+   
+         border-radius: 0px;
+  
+        
+         width: 200px;
+         box-shadow: none;
+         color: aliceblue;
+         background-color: transparent;    }
+    
+    
+    
+    
+    
+    .botones .botone .pdz{
+        display: none;
+     }
+     .logo .logod {
+        
+         padding: 60% 0px;
+         display: block;
+         background-image: url(../imagenes/facebook%20icon1.png);
+         background-position: center;
+         background-size: cover;
+     }
+     section .pr {
+         height: 00px;
+         margin: 0;
+         display: block;
+         background-color: transparent;
+     }
+     
+     .logo .dss .ds {
+         display: none;
+     }
+     section .pr article {
+         width: 100%;
+         padding: 0;
+     }
+     header .botones {
+         background-color: transparent;
+     }#psl{
+         background-color: transparent;
+     }.botones .botone li p{
+         
+     }.amburgeza{
+         cursor: pointer;
+margin: -30px;
+    
+           overflow: hidden;
+         width: 70px;
+         height: 70px;
+    
+         
+     }.am{
+         background-color: transparent;
+         background-image: url(../imagenes/Fw96Z.png);
+         background-position: center;
+         background-size: cover;
+         
+         margin: 0;
+         width:100%;
+         height: 100%;
+    
+        
+    
+     }.txt2{
+        
+     }.txt3{
+      
+     }header{  background-color: rgba( 0, 0, 0, 0.611 );
+    } #comslider_in_point_1019839{
+    margin: 7% ;
+    }
+    
+} 
+@media only screen and (max-width: 800px) {
+ 
+}

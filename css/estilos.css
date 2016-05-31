@@ -1,0 +1,61 @@
+
+.ds{
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    
+padding: 50px;
+
+background-image: url(../imagenes/facebook%20icon1.png);
+
+}.container{
+    
+}.main{
+    
+    overflow: hidden;
+    width: 90%;
+ margin: 0% auto;
+}.slidep {
+  
+    
+    width: 100%;
+    
+}.slidep img{
+    
+     width: 100%; 
+    
+}.slidesjs-pagination li{
+    float: left;
+    margin-right: 7px; 
+    
+    background-color: rgba( 0, 0, 0, 0.337 );
+}.slidesjs-pagination li a{
+    display: block;
+    padding: 10px 20px;
+    color:#FFF;
+    text-decoration: none;
+
+}.slidep .active{
+      background-color: black;
+}.slidesjs-pagination li a:hover{
+ background-color: black;   
+}.slidesjs-next{color :#FFFFFF;
+text-decoration: none;
+    font-family: "helvetica";
+    float: right;
+    padding: 10px
+}.slidesjs-pagination{
+    margin-top: 80px;
+
+}.slidesjs-previous {
+     padding: 10px   
+;color :#FFFFFF;
+    
+     float: left;
+  text-decoration: none;
+    font-family: "helvetica";  
+}.slidesjs-pagination-item{
+   
+    margin: 0;
+}
